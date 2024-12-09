@@ -1,0 +1,2 @@
+# AKILI-YANGU-AI-ASSISTANCE
+A Chatbot for mental health (AKILI YANGU PLATTFORM)
